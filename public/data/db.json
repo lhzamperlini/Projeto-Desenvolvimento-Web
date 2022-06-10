@@ -1,0 +1,13 @@
+{
+    "viagens": [
+        {
+            "id": 1,
+            "passageiro": "iPhone 1",
+            "data": "Smartphone 1",
+            "local_saida": "Smartphone 1",
+            "destino": "Smartphone 1",
+            "horario_saida": "Smartphone 1",
+            "previsão_retorno": "Smartphone 1"
+        }
+    ]
+}
